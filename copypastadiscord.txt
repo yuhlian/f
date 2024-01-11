@@ -1,5 +1,5 @@
 ### Joki HSR by @yuvlian 
-**RAWAT AKUN PER PATCH** (Rp47.500) Include:
+:apple: **RAWAT AKUN PER PATCH** __(Rp47.500)__ Include:
 • Daily Training / Missions
 • Battle Pass (Nameless Honor) sampai Lv70
 • Simulated Universe Full Point + Tukar Coin
@@ -11,7 +11,7 @@
 • Echo of War
 • Memory of Chaos & Pure Fiction (jumlah bintang tergantung akun)
 
-**LAIN-LAIN**
+:sparkles: **LAIN-LAIN**
 • Simulated Universe Full Point + Tukar Coin (Rp3.000)
 • Quest Biru (Rp2.000)
 • Quest Ungu (Rp4.000)
@@ -20,7 +20,7 @@
 • Unlock Path of Propagation (Rp40.000)
 • Event lama seperti Aurum Alley dan lain lain DM ke Discord aja ya!
 
-**INFO**
+:warning: **INFO**
 • Metode Pembayaran via: 
 -DANA (tidak ada fee)
 -QRIS (+5%)
