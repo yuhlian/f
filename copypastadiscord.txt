@@ -28,4 +28,4 @@
 -DANA (tidak ada fee)
 -QRIS (+5%)
 -Bank (+Rp500)
-• Website tentang hal-hal joki saya https://yuhlian.github.io/joki
+• Website tentang hal-hal joki saya: https://yuhlian.github.io/joki
