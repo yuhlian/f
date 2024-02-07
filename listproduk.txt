@@ -1,4 +1,4 @@
-[RAWAT AKUN] RATE Rp2500/HARI, MINIMAL PEMBELIAN 14 HARI JIKA TIDAK DIKENAKAN RATE Rp3000
+[RAWAT AKUN] RATE Rp2500/HARI, MINIMAL PEMBELIAN 14 HARI. DIBAWAH ITU DIKENAKAN RATE Rp3000/HARI
 - Daily Training & Daily Check-in
 - Ingame Event & Main Quest
 - Redeem Codes
@@ -9,6 +9,9 @@
 - Simulated Universe Full Point + Tukar Coin
 - Echo of War
 - Memory of Chaos & Pure Fiction
+
+[TERMS OF SERVICE RAWAT AKUN]
+https://raw.githubusercontent.com/yuhlian/f/master/tosjoki.txt
 
 [LAIN LAIN]
 - Simulated Universe Full Point + Tukar Coin (Rp3.000)
@@ -25,6 +28,3 @@
 - Aurum Alley (Rp10.000)
 - Everwinter City Museum (Rp20.000)
 - Event lainnya DM aja ke Discord ya!
-
-[TERMS OF SERVICE RAWAT AKUN]
-https://raw.githubusercontent.com/yuhlian/f/master/tosjoki.txt
